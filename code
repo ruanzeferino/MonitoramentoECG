@@ -3,15 +3,15 @@
  
 #define WIFISSID "Dedé" // Put your WifiSSID here
 #define PASSWORD "********" // Put your wifi password here
-#define TOKEN "ECG-objetosinteligentesprojeto" // Put your Ubidots' TOKEN
-#define MQTT_CLIENT_NAME "ruanzsa10" // MQTT client Name, please enter your own 8-12 alphanumeric character ASCII string; 
-                                           //it should be a random and unique ascii string and different from all other devices
+#define TOKEN "ECG-objetosinteligentesprojeto"
+#define MQTT_CLIENT_NAME "ruanzsa10" 
+                                          
  
 /****************************************
  * Define Constants
  ****************************************/
-#define VARIABLE_LABEL "sensor" // Assing the variable label
-#define DEVICE_LABEL "esp32" // Assig the device label
+#define VARIABLE_LABEL "sensor" 
+#define DEVICE_LABEL "esp32"
  
 #define SENSOR A0 // Set the A0 as SENSOR
  
