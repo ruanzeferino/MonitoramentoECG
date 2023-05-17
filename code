@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <PubSubClient.h>
  
-#define WIFISSID "Dedé" // Put your WifiSSID here
-#define PASSWORD "********" // Put your wifi password here
+#define WIFISSID "Dedé" 
+#define PASSWORD "********" 
 #define TOKEN "ECG-objetosinteligentesprojeto"
 #define MQTT_CLIENT_NAME "ruanzsa10" 
                                           
